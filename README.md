@@ -1,2 +1,2 @@
-# wary
-hello :)
+# subhashwary
+practicing .py
